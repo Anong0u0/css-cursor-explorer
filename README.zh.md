@@ -3,6 +3,7 @@
 [English](README.md) | 中文
 
 一個優雅的小型展示頁，讓你快速預覽並複製游標樣式。
+
 [🔗 Live Demo](https://anong0u0.github.io/cursor-debugger/)
 
 ## 功能概述
